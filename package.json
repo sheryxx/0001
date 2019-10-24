@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sheryxx/0001/issues"
   },
-  "homepage": "https://github.com/sheryxx/0001#readme"
+  "homepage": "https://github.com/sheryxx/0001#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
